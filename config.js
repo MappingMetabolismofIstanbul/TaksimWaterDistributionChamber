@@ -147,7 +147,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="512" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b0001434-5be6-11f0-bb24-0936e1cb08fb"></iframe>',
+            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="512" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b0001434-5be6-11f0-bb24-0936e1cb08fb"></iframe>Kaydırıcıyı ortasındaki çubuğu sola veya sağa hareket ettirerek görselin eski ve yeni halini karşılaştırabilirsiniz. / Slide the handle left or right to compare the before and after.',
             location: {
                 center: [28.984364394847866,41.03640308031436],
                 zoom: 19,
