@@ -112,7 +112,7 @@ var config = {
             ]
         },
            {
-            id: '3',
+            id: '4',
             alignment: 'right',
             hidden: false,
             title: '',
@@ -120,7 +120,7 @@ var config = {
             description: '',
             location: {
                 center: [28.984364394847866,41.03640308031436],
-                zoom: 17,
+                zoom: 18,
                 pitch: 25,
                 bearing: 0
             },
@@ -142,12 +142,12 @@ var config = {
             ]
         },
          {
-            id: '3',
+            id: '5',
             alignment: 'full',
             hidden: false,
-            title: '',
+            title: 'Taksim Haznesi çevresi düzenlemeler.',
             image: '',
-            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="512" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b0001434-5be6-11f0-bb24-0936e1cb08fb"></iframe>Su Haznesi ile çevresinin eski ve yeni hâlini karşılaştırmak için ortadaki çubuğu sola veya sağa kaydırın. / Move the slider left or right to compare the past and present of the Water Reservoir and its surroundings.',
+            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="512" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b0001434-5be6-11f0-bb24-0936e1cb08fb"></iframe>',
             location: {
                 center: [28.984364394847866,41.03640308031436],
                 zoom: 19,
