@@ -19,7 +19,7 @@ var config = {
     title: 'Taksim Maksemi / Taksim Water Distribution Chamber',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '1',
@@ -119,13 +119,13 @@ var config = {
             image: 'https://i.ibb.co/dsmz13mC/3.png',
             description: '',
             location: {
-                center: [28.984364394847866,41.03640308031436],
+                center: [28.98577252784589,41.036661435925225],
                 zoom: 18,
-                pitch: 25,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [
                 // {
@@ -145,17 +145,17 @@ var config = {
             id: '5',
             alignment: 'full',
             hidden: false,
-            title: 'Taksim Haznesi çevresi düzenlemeler.',
+            title: 'Taksim Haznesi çevresi düzenlemeler./ Arrangements around the Taksim Reservoir.',
             image: '',
             description: '<iframe frameborder="0" class="juxtapose" width="100%" height="512" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b0001434-5be6-11f0-bb24-0936e1cb08fb"></iframe>',
             location: {
-                center: [28.984364394847866,41.03640308031436],
-                zoom: 19,
-                pitch: 25,
+                center: [28.984615233261355,41.03720544543992],
+                zoom: 17,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [
                 // {
